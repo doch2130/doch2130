@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Follow Me 🚀</h3>
 <p align="center">
   <a href="mailto:doch2130@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=doch2130@gmail.com"/>
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://nan491.tistory.com">
     <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://nan491.tistory.com"/>
