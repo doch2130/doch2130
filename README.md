@@ -1,13 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20I'm%20HyoHyun!&fontSize=60)
 
-
-# 👋 안녕하세요 👋
-#### 모든 일에 책임감을 가지고 항상 노력하는
-#### 프론트 개발자 박효현입니다!
-
-
-<h2 align="center">👋 안녕하세요 👋</h2>
-<h3 align="center">모든 일에 책임감을 가지고 항상 노력하는<br />프론트 개발자 박효현입니다!</h3>
+<h2 align="center">👋 안녕하세요 👋<br/>모든 일에 책임감을 가지고 항상 노력하는<br />프론트 개발자 박효현입니다!</h2>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
