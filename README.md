@@ -54,6 +54,7 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github">
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
