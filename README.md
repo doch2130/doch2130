@@ -4,15 +4,18 @@
 # 👋 안녕하세요 👋
 #### 모든 일에 책임감을 가지고 항상 노력하는
 #### 프론트 개발자 박효현입니다!
-
-로켓아이콘 Follow Me 로켓아이콘
-Email : doch2130@gmail.com
-Portfolio : Google Drive
-<!-- Blog :  -->
-<a href="https://nan491.tistory.com">
-  <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://nan491.tistory.com"/>
-</a>
-
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="mailto:doch2130@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=doch2130@gmail.com"/>
+  </a>
+  <a href="https://nan491.tistory.com">
+    <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://nan491.tistory.com"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link"/>
+  </a>
+</p>
 
 
 책아이콘 Tech Stack 책아이콘 or 수리?아이콘
