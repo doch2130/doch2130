@@ -32,9 +32,9 @@
 
 <h4 align="center">Backend</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/socketio-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/expressjs-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
   <br />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -46,7 +46,7 @@
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode">
+  <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode">
 </p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
