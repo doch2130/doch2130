@@ -13,6 +13,11 @@
   <a href="https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link">
     <img src="https://img.shields.io/badge/portfolio-4285F4?style=flat-square&logo=googledrive&logoColor=white&link=https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link" />
   </a>
+
+<br /> <br />
+  <a href="https://nan491.tistory.com">
+    <img src="https://img.shields.io/badge/Blog-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&link=https://nan491.tistory.com">
+  </a>
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -33,7 +38,7 @@
 <h4 align="center">Backend</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/expressjs-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
   <br />
