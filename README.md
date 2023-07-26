@@ -15,8 +15,14 @@
   </a>
 
 <br /> <br />
+  <a href="mailto:doch2130@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=doch2130@gmail.com">
+  </a>
   <a href="https://nan491.tistory.com">
     <img src="https://img.shields.io/badge/Blog-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white&link=https://nan491.tistory.com">
+  </a>
+   <a href="https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Portfolio-09B3AF?style=for-the-badge&logo=googledrive&logoColor=white&link=https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link">
   </a>
 </p>
 
