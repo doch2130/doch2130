@@ -10,18 +10,15 @@
   <a href="https://nan491.tistory.com">
     <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://nan491.tistory.com"/>
   </a>
-  <a href="https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link">
     <img src="https://img.shields.io/badge/portfolio-4285F4?style=flat-square&logo=googledrive&logoColor=white&link=https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link" />
   </a>
 </p>
 
-
-책아이콘 Tech Stack 책아이콘 or 수리?아이콘
-Frontend
-<img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript">
-
 <h3 align="center">📚 Tech Stack 📚</h3>
+<h4 align="center">Frontend</h4>
 <p align="center">
+  <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -37,16 +34,7 @@ Frontend
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
-
-Backend
-
-
+<h4 align="center">Backend</h4>
 
 
 
