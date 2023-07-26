@@ -5,17 +5,6 @@
 <h3 align="center">🚀 Follow Me 🚀</h3>
 <p align="center">
   <a href="mailto:doch2130@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://nan491.tistory.com">
-    <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://nan491.tistory.com"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/portfolio-4285F4?style=flat-square&logo=googledrive&logoColor=white&link=https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link" />
-  </a>
-
-<br /> <br />
-  <a href="mailto:doch2130@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=doch2130@gmail.com">
   </a>
   <a href="https://nan491.tistory.com">
@@ -27,7 +16,7 @@
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
-<h4 align="center">Frontend</h4>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3">
@@ -41,7 +30,7 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </p>
 
-<h4 align="center">Backend</h4>
+<h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white">
