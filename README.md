@@ -10,8 +10,9 @@
   <a href="https://nan491.tistory.com">
     <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://nan491.tistory.com"/>
   </a>
-  📒<a href="https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link"/>
+  <a href="https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link">
+    <!-- <img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://drive.google.com/file/d/1T9WIRafxVuE35Xuc6YrgS2_3bDPe_SMi/view?usp=drive_link"/> -->
+    <img src="https://img.shields.io/badge/googledrive-4285F4?style=flat-square&logo=Swift&logoColor=white" />
   </a>
 </p>
 
