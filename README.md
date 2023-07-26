@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20I'm%20HyoHyun!&fontSize=60)
 
-<h2 align="center">👋 안녕하세요 👋<br /><br />모든 일에 책임감을 가지고 항상 노력하는<br />프론트 개발자 박효현입니다!<br /></h2>
+<h2 align="center">👋 안녕하세요 👋<br /><br />모든 일에 책임감을 가지고 항상 노력하는<br />프론트 개발자 박효현입니다!</h2>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
@@ -47,6 +47,7 @@ Frontend
 Backend
 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doch2130&show_icons=true&theme=highcontrast)
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doch2130&show_icons=true&theme=highcontrast)
+</p>
