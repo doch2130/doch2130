@@ -18,7 +18,7 @@
 <h3 align="center">📚 Tech Stack 📚</h3>
 <h4 align="center">Frontend</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java%20Script-grey?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -52,7 +52,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
-### Tools
+<h3 align="center">🛠 Tools 🛠</h3>
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
