@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
 </p>
 
-<h3 align="center">📱 Backend 📱</h3>
+<h3 align="center">💡 Backend 💡</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode">
 </p>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center">👨‍💻 My Github Stats 👨‍💻</h3>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doch2130&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,4 +62,4 @@
 </p>
 
 
-<!-- 🌈🚀🛠👩‍💻📚👋💻🖥 -->
+<!-- 🌈🚀🛠📚👋💻🖥👨‍💻💡 -->
